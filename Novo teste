@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Teste de app</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<audio controls>
+	  <source src="/Guia-me">
+	</audio>
+	<div>
+	  <p>
+	    O tempo se esvai</br>
+	    As forças se vão </br>
+	    O medo chega então </br>
+	    Fecho os olhos e corro em tua direção </br>
+	    <br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    <br>
+	    Eu tento entender </br>
+	    E tu me pedes para depender </br>
+	    Meu coração me diz que não, mas eu sei </br>
+	    Enganoso ele é, enganoso ele é </br>
+	    <br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me (Diga) </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    Guia-me </br>
+	    <br>
+	    Eu corro pros teus braços </br>
+	    Me lanço em teu amor </br>
+	    Me envolvo nos teus passos </br>
+	    Minha vida eu te dou </br>
+	    Eu corro pros teus braços </br>
+	    Me lanço em teu amor </br>
+	    Me envolvo nos teus passos </br>
+	    Minha vida eu te dou </br>
+	    <br>
+	    
+	  </p>
+	</div>
+</body>
+</html>
